@@ -1,0 +1,17 @@
+.env
+.env.local
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+node_modules/
+.next/
+coverage/
+htmlcov/
+*.db
+uploads/*
+!uploads/.gitkeep
+.DS_Store
+
+tsconfig.tsbuildinfo

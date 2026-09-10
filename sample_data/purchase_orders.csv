@@ -1,0 +1,4 @@
+po_number,supplier,currency,status,sku,description,quantity,unit_price
+PO450,ABC Ltd,USD,OPEN,MC-100,Motor Controller,10,800
+PO451,XYZ Components,USD,OPEN,SEN-20,Industrial Temperature Sensor,20,120
+PO452,Nova Electronics,USD,OPEN,PCB-88,Control PCB Assembly,5,450
